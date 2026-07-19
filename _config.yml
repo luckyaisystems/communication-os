@@ -1,0 +1,23 @@
+collections:
+  modules:
+    output: true
+    permalink: /modules/:name
+
+just_the_docs:
+  navigation:
+    - title: "Modules"
+      children:
+        - title: "Cadence Mapping"
+          url: "/modules/cadence-mapping"
+        - title: "Cold Read"
+          url: "/modules/cold-read"
+        - title: "Sensory Anchoring"
+          url: "/modules/sensory-anchoring"
+        - title: "Persona Consistency"
+          url: "/modules/persona-consistency"
+        - title: "Context Drift"
+          url: "/modules/context-drift"
+        - title: "Iteration Log"
+          url: "/modules/iteration-log"
+        - title: "Compiler Architecture"
+          url: "/modules/compiler-architecture"
