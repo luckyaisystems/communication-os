@@ -1,23 +1,23 @@
 collections:
   modules:
     output: true
-    permalink: /modules/:name
+    permalink: /communication-os/modules/:name
 
 just_the_docs:
   navigation:
     - title: "Modules"
       children:
         - title: "Cadence Mapping"
-          url: "/modules/cadence-mapping"
+          url: "/communication-os/modules/cadence-mapping"
         - title: "Cold Read"
-          url: "/modules/cold-read"
+          url: "/communication-os/modules/cold-read"
         - title: "Sensory Anchoring"
-          url: "/modules/sensory-anchoring"
+          url: "/communication-os/modules/sensory-anchoring"
         - title: "Persona Consistency"
-          url: "/modules/persona-consistency"
+          url: "/communication-os/modules/persona-consistency"
         - title: "Context Drift"
-          url: "/modules/context-drift"
+          url: "/communication-os/modules/context-drift"
         - title: "Iteration Log"
-          url: "/modules/iteration-log"
+          url: "/communication-os/modules/iteration-log"
         - title: "Compiler Architecture"
-          url: "/modules/compiler-architecture"
+          url: "/communication-os/modules/compiler-architecture"
