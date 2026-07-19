@@ -1,3 +1,7 @@
+---
+layout: default
+title: Persona Consistency
+---
 # Persona Consistency Module
 
 Persona consistency ensures communication identity remains stable.
