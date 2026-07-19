@@ -1,6 +1,7 @@
 # Communication OS
 
 Welcome to the official documentation site for the Communication Operating System (OS).
+This is a personal framework I built to improve clarity, structure, and discipline in my writing and communication. The terminology used throughout this site (modules, compiler, kernel, etc.) is metaphorical and not literal software architecture. It serves as a structured way for me to think about how I analyze, refine, and present information.
 
 This site contains:
 
@@ -35,6 +36,7 @@ Navigate the repository using the links below.
 
 ### How to Use
 - [How to Use the Communication OS](/communication-os/HOW_TO_USE)
+
 
 ### Modules
 - [Modules Directory](modules/)
