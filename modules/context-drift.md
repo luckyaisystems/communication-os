@@ -1,3 +1,7 @@
+---
+layout: default
+title: Context Drift
+---
 # Context Drift Detection Module
 
 Context drift occurs when communication introduces new modules prematurely.
