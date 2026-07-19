@@ -15,6 +15,7 @@ This site contains:
 - Experimental Modules  
 - Contributor Guidelines  
 - Code of Conduct  
+- How to Use the Communication OS  
 
 Navigate the repository using the links below.
 
@@ -32,6 +33,9 @@ Navigate the repository using the links below.
 - [CONTRIBUTING](CONTRIBUTING.md)
 - [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 
+### How to Use
+- [How to Use the Communication OS](/communication-os/HOW_TO_USE)
+
 ### Modules
 - [Modules Directory](modules/)
 
@@ -46,3 +50,4 @@ Navigate the repository using the links below.
 
 ### Visual Diagrams
 - [Visual Diagrams](visual-diagrams/)
+
