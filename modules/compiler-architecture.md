@@ -1,3 +1,7 @@
+---
+layout: default
+title: Compiler Architecture
+---
 # Compiler Architecture Module
 
 The Communication OS functions as a compiler that transforms raw language into structured, context-aligned output.
