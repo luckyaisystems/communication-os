@@ -2,6 +2,7 @@
 layout: default
 title: Cold Read
 ---
+
 # Cold Read Module
 
 Cold reads are observational statements grounded in present context. They stabilize communication, prevent assumption-based drift, and maintain clarity.
