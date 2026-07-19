@@ -1,3 +1,7 @@
+---
+layout: default
+title: Sensory Anchoring
+---
 # Sensory Anchoring Module
 
 Sensory anchoring stabilizes tone using grounded, environmental detail.
