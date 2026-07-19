@@ -1,3 +1,7 @@
+---
+layout: default
+title: Iteration Log
+---
 # Iteration Log Module
 
 Tracks refinements and improvements across communication artifacts.
