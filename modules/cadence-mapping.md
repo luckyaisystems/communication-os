@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cadence Mapping
+---
+
 # Cadence Mapping Module
 
 Cadence mapping controls pacing, rhythm, and tone.
@@ -19,3 +24,4 @@ To maintain stable communication flow.
 
 ## Example
 Neutral → Sensory → Observational → Light commentary.
+
