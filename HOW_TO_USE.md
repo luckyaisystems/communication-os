@@ -4,7 +4,7 @@ title: How to Use the Communication OS
 ---
 
 # How to Use the Communication OS
-This guide explains how to deploy the Communication OS inside any AI system (GPT‑4o, Claude, Gemini, local LLMs, multi‑agent pipelines). The Communication OS is not a prompt. It is a runtime environment for structured communication.
+This guide explains how to deploy the Communication OS inside any AI system (GPT‑4o, Claude, Gemini, local LLMs, multi‑agent pipelines). The Communication OS is not a prompt. It is a runtime environment for structured communication.It's not what you say. It's how you say it. And when you say it.
 
 ## 1. Initialize the Environment
 Before giving the AI any task, load the OS.
