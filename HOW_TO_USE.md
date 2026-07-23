@@ -27,6 +27,8 @@ The Communication OS exists to make this process deliberate rather than accident
 
 # Communication OS Workflow
 
+**The workflow is sequential. Avoid skipping directly to refinement before first capturing the original thought and clarifying the intended outcome.**
+
 Every interaction follows five stages.
 
 ## 1. Capture
@@ -95,13 +97,13 @@ If drift is detected:
 
 ---
 
-## 5. Deploy
+## 5. Deploy & Observe
 
 Use the communication.  
 Observe the result.  
 Refine future communication using real‑world feedback.
 
-This is how the Communication OS becomes a living system rather than a static framework.
+This closes the loop and turns communication into an iterative process rather than a one‑time action.
 
 ---
 
